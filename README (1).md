@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasnainalvi.</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
-![image](https://github.com/Hasnainalvi/Hasnainalvi/assets/160486646/e7a84f54-273a-4f5f-bb49-5145af2d0ebd)
+<h3 align="center">A passionate frontend developer from pakistan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainalvi&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainalvi" /> </p>
 
