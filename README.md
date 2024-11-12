@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/hasnain-haider-alvi-0951582b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasnain haider alvi" height="30" width="40" /></a>
+<a href=" https://in.com/Hasnain Haider Alvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasnain haider alvi" height="30" width="40" /></a>
 <a href="https://fb.com/حسنین حیدر علوی" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="حسنین حیدر علوی" height="30" width="40" /></a>
 <a href="https://instagram.com/hasnain_alvi110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasnain_alvi110" height="30" width="40" /></a>
 </p>
